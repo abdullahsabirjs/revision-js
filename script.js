@@ -154,4 +154,4 @@
 // if (age >=18){
 //     console.log(`your age is ${age} you are eligible to vote`);
     
-}
+// }
